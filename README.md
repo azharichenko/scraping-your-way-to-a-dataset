@@ -4,7 +4,7 @@ PyOhio 2019 Conference Slides and Code
 ## Content to be uploaded over the next few days! 
 ## Said it was available for the video so it didn't seem weird to watch it in the futre
 
-
+- [Talk Code](code/)
 - [Talk Resources](docs/RESOURCES.md)
 - [Talk Slides](https://docs.google.com/presentation/d/1-_pzyom0U5yYLwI3fUd5zwJvaDAkGP2gyZg27W_MNGI/edit?usp=sharing)
 
